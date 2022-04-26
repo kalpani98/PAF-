@@ -2,7 +2,7 @@
 IT20132828-Aththanayake K.A-User Service
 IT20164294-Dilshanka K.V. O-Power Service
 IT20138622 Waidyarathna W.D.M.U.P -Payment Service
-Subasinghe B.N. W-Billing 
+IT20196288-Subasinghe B.N. W-Billing 
 
 
 # Service development 
